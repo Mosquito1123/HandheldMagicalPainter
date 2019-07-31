@@ -1,0 +1,8 @@
+app_identifier("HandheldMagicalPainterByWinston") # The bundle identifier of your app
+apple_id("vs56ki@126.com") # Your Apple email address
+
+itc_team_id("120251266") # App Store Connect Team ID
+team_id("K8V7Q7K4RF") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
